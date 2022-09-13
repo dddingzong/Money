@@ -4,3 +4,4 @@ public class Login_class {
 	String PassWord;
 	boolean Right;
 }
+
